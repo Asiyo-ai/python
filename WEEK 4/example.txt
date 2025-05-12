@@ -1,0 +1,7 @@
+Hello world this is awesome
+
+place 'example.txt' with the path to the 
+file you want to open. This code will read th
+e file's content and print it to the console.
+ If the file does not exist, 
+it will handle the error gracefu
